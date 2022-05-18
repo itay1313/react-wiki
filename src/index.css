@@ -60,6 +60,11 @@ h1 {
   transform: translateY(-5px);
 }
 
+p.search-results {
+  color: white;
+  margin-bottom: 15px;
+}
+
 .results {
   max-width: 768px;
   margin: 0 auto;
